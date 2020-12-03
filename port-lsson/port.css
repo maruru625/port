@@ -1,0 +1,77 @@
+*{
+  margin:0;
+  padding:0;
+}
+a{
+  text-decoration:none;
+  color:black;
+}
+li{
+  list-style: none;
+}
+header{
+  width:100%;
+  height:90px;
+  background-color:gray;
+  position:fixed;
+  top:0px;
+  z-index:0px;
+}
+.header-left{
+  float:left;
+  margin:24px 30px;
+}
+.header-list{
+  float:left;
+  margin:35px 90px;
+}
+.header-right{
+  float:right;
+}
+
+.top{
+  height:550px;
+  background-image:url('img/workplace-5517762_1280.webp');
+  background-size:cover;
+  margin-top:90px;
+}
+.top-main{
+text-align: center;
+padding-top:95px;
+font-size:40px;
+font-weight: normal;
+font-family: 'Caveat';
+}
+.content{
+  height:1000px;
+  background-color:#cccccc;
+  padding-top:35px;
+}
+.contents{
+  width:100%;
+  max-width:1170px;
+  margin:0 auto;
+}
+.contents-head{
+  background-color:white;
+  border-radius: 50px;
+  padding:30px;
+}
+.contents h2{
+  text-align:center;
+  font-size:30px;
+}
+.prof li{
+  margin-top:55px;
+  font-size:25px;
+}
+.contents-bottom{
+  text-align:center;
+  margin-top:100px;
+}
+.p-up{
+  font-size:50px;
+}
+.p-dw{
+  font-size:25px;
+}
